@@ -168,7 +168,6 @@
           <version>8.0.0.M1</version>
         </plugin>
       </plugins>
-             <plugins>
     <plugin>
       <inherited>true</inherited>
       <groupId>org.apache.maven.plugins</groupId>
